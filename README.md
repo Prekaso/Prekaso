@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prekaso
-- 👀 I’m interested in coding for MCUs 
+- 👀 I’m interested in Embedded System & Design
 - 🌱 I’m currently learning Bluetooth and Wifi integration in MCUs
 - 💞️ I’m looking to collaborate on hardware based projects
 - 📫 How to reach me: Prekaso#0001 on Discord
