@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prekaso
+- 👋 Hi, I’m Dylan!
 - 👀 I’m interested in Embedded System & Design
 - 🌱 I’m currently learning Bluetooth and Wifi integration in MCUs
 - 💞️ I’m looking to collaborate on hardware based projects
